@@ -3,7 +3,7 @@ package first;
 public class Sd {
 int e;
 void sd(){
-	System.out.println("hel");
+	System.out.println("helwd");
 	
 }
 }
