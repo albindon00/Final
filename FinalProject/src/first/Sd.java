@@ -4,5 +4,6 @@ public class Sd {
 int e;
 void sd(){
 	System.out.println("hell");
+	System.out.println("sdasd");
 }
 }
